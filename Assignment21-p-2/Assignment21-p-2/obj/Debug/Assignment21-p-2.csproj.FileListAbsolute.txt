@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\bin\Debug\Assignment21-p-2.exe.config
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\bin\Debug\Assignment21-p-2.exe
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\bin\Debug\Assignment21-p-2.pdb
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\obj\Debug\Assignment21-p-2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\obj\Debug\Assignment21-p-2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\obj\Debug\Assignment21-p-2.exe
+C:\Users\Dell\source\Day16\Assignment21-p-2\Assignment21-p-2\obj\Debug\Assignment21-p-2.pdb
